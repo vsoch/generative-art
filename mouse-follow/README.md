@@ -22,7 +22,7 @@ rm -rf /tmp/processing.py-3056-linux64
 Note that this is for x64 systems. You'd also need java installed:
 
 ```bash
-sudo apt-get update && apt-get install -y default-jdk
+sudo apt-get update && apt-get install -y openjdk-8-jdk build-essential
 ```
 
 so then I can just run:
